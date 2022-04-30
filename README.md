@@ -4,14 +4,14 @@
  ****따라하며 배우는 노드, 리액트 시리즈 - 기본 강의**** - Inflearn @JohnAhn
  
 
-<aside>
+
 ✅ Stacks
 * React
 * NodeJS
 * ExpressJS
 * MongoDB
 * Redux
-</aside>
+
 
 
 천사이신 [@JohnAhn](https://www.inflearn.com/users/@johnahn) 님의 인프런 무료 강의 ‘따라하며 배우는 노드, 리액트 시리즈 - 기본강의’를 수강하며 작업하였습니다.
