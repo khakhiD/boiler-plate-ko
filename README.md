@@ -5,12 +5,12 @@
  
 
 
-✅ Stacks
-* React
-* NodeJS
-* ExpressJS
-* MongoDB
-* Redux
+## Stacks
+* ✅ React
+* ✅ NodeJS
+* ✅ ExpressJS
+* ✅ MongoDB
+* ✅ Redux
 
 
 
